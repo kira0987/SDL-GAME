@@ -85,15 +85,12 @@ Executing `make` will compile all necessary game files, and `./test.exe` will la
 
 ## 🎥 Visual Preview
 
-### **Gameplay Video** 🎬
-
-
 
 ### **Screenshots** 📸
 
-| Hero in Action |      Traps      | The Castle |
-| -------------- | --------------- | ---------- |
-|                |                 |      https://github.com/kira0987/SDL-GAME/blob/main/background/test.jpg      |
+| Hero in Action | The Castle |
+| -------------- | ---------- |
+| https://github.com/kira0987/SDL-GAME/blob/main/sprite_perso/0.png|https://github.com/kira0987/SDL-GAME/blob/main/background/test.jpg      |
 
 ---
 
@@ -111,7 +108,7 @@ Contributions are welcome! Follow these steps:
 
 ## 📜 License
 
-This project is **open-source** and follows the **MIT License**.
+This project is from esprit worked by **OUSSEMA ASSAL** And **HOUSSAM EDDINE BENKHEDER**
 
 ---
 
