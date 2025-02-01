@@ -93,7 +93,7 @@ Executing `make` will compile all necessary game files, and `./test.exe` will la
 
 | Hero in Action |      Traps      | The Castle |
 | -------------- | --------------- | ---------- |
-|                |                 |            |
+|                |                 |      https://github.com/kira0987/SDL-GAME/blob/main/background/test.jpg      |
 
 ---
 
